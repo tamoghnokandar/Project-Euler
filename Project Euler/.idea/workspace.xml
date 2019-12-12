@@ -28,7 +28,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 16">
+  <component name="RunManager" selected="Python.Problem 30">
     <configuration name="Problem 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Problem 30" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem 30" />
         <item itemvalue="Python.Problem 16" />
         <item itemvalue="Python.Problem 20" />
         <item itemvalue="Python.Problem 10" />
         <item itemvalue="Python.Problem 9" />
-        <item itemvalue="Python.Problem 4" />
       </list>
     </recent_temporary>
   </component>
